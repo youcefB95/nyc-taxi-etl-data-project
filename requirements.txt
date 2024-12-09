@@ -1,0 +1,5 @@
+pandas
+requests
+mage-ai==0.8.70
+google-cloud 
+google-cloud-bigquery
