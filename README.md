@@ -1,20 +1,19 @@
 <div align="center">
-  <a href="https://lookerstudio.google.com/u/0/reporting/0fd8cbe1-5d1b-4b0b-9ca2-a0b2015d629d/page/3vfYE/edit">
-    <img src="https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/6eba1fec-38f2-41c4-a363-967ac124c531" alt="Banner" width="720">
-  </a>
-  
-  <div id="user-content-toc">
+    <div id="user-content-toc">
     <ul>
-      <summary><h1 style="display: inline-block;">🚕 NYC Taxi Trip Records Data Analysis</h1></summary>
+      <summary><h2 style="display: inline-block;">🚖 NYC Taxi Trip Records Data Analysis</h2></summary>
     </ul>
   </div>
-  
+  <a href="https://lookerstudio.google.com/reporting/0fd8cbe1-5d1b-4b0b-9ca2-a0b2015d629d">
+    <img src="https://github.com/youcefB95/nyc-taxi-etl-data-project/blob/48f9f3e2e5ce568c743a91fbf2b295ecf9c849fa/images/dashboard_looker.png" alt="Banner" width=80% >
+  </a>
+    
   <p>Data Engineering Project Using GCP & MageAI </p>
-    <a href="https://bit.ly/nyctaxi-dashboard" target="_blank">Dashboard</a>
+    <a href="https://lookerstudio.google.com/reporting/0fd8cbe1-5d1b-4b0b-9ca2-a0b2015d629d" target="_blank">Dashboard</a>
     🌀
     <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page" target="_blank">Data</a>
     ☄️
-    <a href="https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/issues" target="_blank">Request Feature</a>
+    <a href="https://github.com/youcefB95/nyc-taxi-etl-data-project/issues" target="_blank">Request Feature</a>
 </div>
 
 ## 🎯 Goal
@@ -32,7 +31,7 @@ More info about the dataset can be found here :
 
 ## 📊 Dashboard
 
-![image](https://github.com/Hamagistral/NYCTaxi-Analytics-ETL/assets/66017329/6eba1fec-38f2-41c4-a363-967ac124c531)
+![image](https://github.com/youcefB95/nyc-taxi-etl-data-project/blob/48f9f3e2e5ce568c743a91fbf2b295ecf9c849fa/images/dashboard_looker.png)
 ![image](https://github.com/Hamagistral/OnlineRetail-DataEng/assets/66017329/82fbafbe-102c-4d45-a733-b14d4b3766f5)
 
 ## 🕵️ Key Insights
@@ -77,6 +76,6 @@ More info about the dataset can be found here :
 
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/hamza-elbelghiti/) •
-[Website](https://hamagistral.me) •
-[Gmail](hamza.lbelghiti@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/youcef-belhadri/) 
+[Website](https://yb95-portfolio.io) •
+[Gmail](youcefg1a@gmail.com)
